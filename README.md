@@ -1,2 +1,2 @@
-# Health-Chat-Assistant
-AI-powered medical chatbot for context-aware health guidance
+## Health-Chat-Assistant
+AI chatbot using LangChain and Pinecone for health guidance
